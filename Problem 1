@@ -3,6 +3,7 @@
 
 temp1 = 0
 
-for i in range(:10):
-  if i%5 == 0 or i%3 == o:
+for i in range(0, 1000):
+  if i%5 == 0 or i%3 == 0:
     temp1 += i
+print(temp1)
