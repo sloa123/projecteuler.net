@@ -2,7 +2,7 @@
 #What is the largest prime factor of the number 600851475143 ?
 
 num = int(input("Please input a number: "))
-temp = 0
+temp = None
 
 for i in range(1, num):
     if (num % i) == 0:
