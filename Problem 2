@@ -13,7 +13,7 @@ d = 0
 #c is the running total of what is being asked for in the problem
 #d is a placeholder
 
-while (a + b) < 10:
+while b < 4000000:
   if (a + b)%2 == 0:
     c = c + (a + b)
   d = a + b
