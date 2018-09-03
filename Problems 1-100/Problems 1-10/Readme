@@ -1,3 +1,4 @@
 Problem 1 - Sum of multiples of 3 or 5 in a certain range of numbers
 Problem 2 - Finding Fibonacci numbers (1, 2, 3, 5, 8, 13,...), and then summing all the even values within a certain range
 Problem 3 - Finding largest prime factor of the input
+Problem 4 - Finding Palindrome (e.g. 9009 = True, 90/09); Finding the largest palindrome from the product of two three digit numbers
