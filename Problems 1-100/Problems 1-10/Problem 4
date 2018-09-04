@@ -14,21 +14,13 @@
 #Ok, now put it together
 
 num = 0
-
 pal = 0
-
-
+temp = 0
 
 for num in range(999,0,-1):
-
   pal = num * num
-
-  if str(pal)[0:int(num/2) + 1] == str(pal)[-1:int(-(num/2)):-1]:
-
-    return(True)
-
-  if pal = True:
-
+  if str(pal)[0:int(num/2) + 1] == str(pal)[-1:-(num/2):-1]:
+    temp = True
+  if temp == True:
     break
-
 print(str(pal) + " is the highest palindrome.")
